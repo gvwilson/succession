@@ -4,7 +4,7 @@
 
 FIXME: describe
 
-> All of the material in this workshop is available under [an open license](../LICENSE.md).
+> All of the material in this workshop is available under an open license.
 > Sessions are not recorded,
 > and we request that you do not share notes or exercise results
 > with people who did not take part
@@ -14,7 +14,7 @@ FIXME: describe
 
 FIXME: fill in
 
-## Acknowledgments
+## Acknowledgments {: #acknowledgments}
 
 -   [Yanina Bellini Saibene][bellini-saibene-yanina]
 -   [Greg Wilson][wilson-greg]

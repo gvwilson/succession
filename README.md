@@ -27,14 +27,14 @@ All participants are required to respect our [Code of Conduct](./CODE_OF_CONDUCT
 
 ## Syllabus
 
-1.  [Introduction](@root/01_intro/): what this training does and doesn't cover.
-2.  [Ten Rules](@root/02_rules/): if you don't have time for the whole workshop.
+1.  [Introduction](./01_intro/): what this training does and doesn't cover.
+2.  [Ten Rules](./02_rules/): if you don't have time for the whole workshop.
 
 ##  Appendices
 
-1.  [License](@root/license/)
-1.  [Bibliography](@root/bibliography/)
-1.  [Glossary](@root/glossary/)
+1.  [License](./LICENSE.md)
+1.  [Bibliography](./bibliography.md)
+1.  [Glossary](./glossary.md)
 
 [email]: mailto:gvwilson@third-bit.com
 [repo]: https://github.com/gvwilson/succession

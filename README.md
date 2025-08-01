@@ -2,9 +2,9 @@
 
 This workshop is a short introduction to handing projects over to new leadership
 (or winding them down).
-All of the material is available under an open license,
+All of the material is available under an [open license](./LICENSE.md),
 and contributions through our [repository][repo] are welcome.
-All participants are required to respect our Code of Conduct.
+All participants are required to respect our [Code of Conduct](./CODE_OF_CONDUCT.md).
 
 ## Learner Persona
 
@@ -24,27 +24,6 @@ All participants are required to respect our Code of Conduct.
 > This workshop teaches Vaida the basics of succession planning,
 > while the exercises help her figure out what changes she wants
 > and how to achieve them.
-
-## Code of Conduct
-
-In the interest of fostering an open and welcoming environment,
-we as authors and instructors pledge to making participation in our workshop
-a harassment-free experience for everyone,
-regardless of age, body size, disability, ethnicity, gender identity and expression,
-level of experience, education, socioeconomic status, nationality, personal appearance,
-race, religion, or sexual identity and orientation.
-Examples of unacceptable behavior by participants include:
-
--   the use of sexualized language or imagery and unwelcome sexual attention or advances,
--   trolling, insulting/derogatory comments, and personal or political attacks,
--   public or private harassment,
--   publishing others' private information, including physical or electronic addresses, without explicit permission,
-    and
--   other conduct which could reasonably be considered inappropriate in a professional setting.
-
-If you feel someone is in breach of this code of conduct,
-please contact the workshop organizers.
-All reports will be treated as confidential.
 
 ## Syllabus
 

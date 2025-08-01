@@ -49,6 +49,7 @@ All reports will be treated as confidential.
 ## Syllabus
 
 1.  [Introduction](./01_intro/index.md): what this training does and doesn't cover.
+2.  [Ten Rules](./02_rules/index.md): if you don't have time for the whole workshop.
 
 ##  Appendices
 

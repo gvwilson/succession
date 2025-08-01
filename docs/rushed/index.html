@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Short Notice</title>
+<link href="../static/favicon.ico" rel="icon" type="image/x-icon"/>
+<link href="../static/page.css" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+<nav>
+<a href="../">Home</a>
+      ·
+      <span class="dropdown">
+<a href="#">Lessons</a>
+<span class="dropdown-content" id="nav-lessons">
+<a href="../intro/">Introduction</a>
+<a href="../handover/">Handing Over</a>
+<a href="../shutdown/">Shutting Down</a>
+<a href="../rushed/">Short Notice</a>
+<a href="../finale/">Conclusion</a>
+</span>
+</span>
+      ·
+      <span class="dropdown">
+<a href="#">Extras</a>
+<span class="dropdown-content" id="nav-extras">
+<a href="../license/">License</a>
+<a href="../conduct/">Code of Conduct</a>
+<a href="../contrib/">Contributing</a>
+<a href="../bibliography/">Bibliography</a>
+<a href="../glossary/">Glossary</a>
+<a href="../firing/">Firing People</a>
+<a href="../fired/">Being Fired</a>
+</span>
+</span>
+</nav>
+<main>
+<h1>Short Notice</h1>
+<p class="subtitle">what to do on short notice</p>
+<p>In 2013,
+the government of Canada ordered the closure of
+five of the Department of Fisheries and Oceans' seven libraries [<a href="../bibliography/#Nikiforuk2013">Nikiforuk2013</a>].
+No one knows how many thousands of volumes of irreplaceable environmental records were destroyed,
+but even scientists who were directly affected did not make plans in case something similar happened again.
+In contrast,
+when faced with the prospect of a populist demagogue becoming president,
+researchers in Argentina knew from their collective experience what might happen next
+and took action accordingly [<a href="../bibliography/#DelBoca2024">DelBoca2024</a>].</p>
+<p>And then Donald Trump was re-elected
+and an unprecedented assault on American science began.
+Except it wasn't really unprecedented:
+from anti-vax hysteria to climate change denialism
+to banning the teaching of evolution in schools,
+reactionaries have been attacking science and scientists for decades.</p>
+<h2>Software</h2>
+<p>"Good enough" practices in research computing,
+such as creating \texttt{.zip} archives of your project as an alternative to using version control,
+may be more appropriate that "best practices" in an emergency \cite{Wilson2017}.
+(By analogy,
+a paramedic is not a doctor who cuts corners,
+but rather someone who specializes in working under very different circumstances.)
+If you are short on time:</p>
+<p>Explanations of what the software \emph{does} and \emph{how to use it}
+take priority over documentation of its internals
+because (a) someone who knows the first two will be better able to figure out the third
+and (b) AI code assistants can do a reasonable job of helping newcomers navigate an unfamiliar code base
+if they are given enough context.</p>
+<p>Similarly,
+a short screencast showing how you use your software
+is often faster to create than pages of documentation,
+and may actually be more useful if closed captions are attached
+to make the content searchable.
+Again,
+AI tools can help create those captions,
+though some editing is invariably required to clean up mistranslation of technical jargon.</p>
+<p>Following on from Tip 5,
+you can \href{https://archive.softwareheritage.org/browse/search/}{search the Software Heritage Archive} with your repository url to check whether it has been saved.
+If your repository is not present, there is a \href{https://archive.softwareheritage.org/save/}{simple process} to submit it for archival.</p>
+<p>If you do not have time to bring your project in line with best practices,
+try instead to clean it up by removing files that are no longer used,
+deleting sections of your setup instructions that no longer apply,
+closing bug reports that are no longer relevant,
+and so on.
+Eliminating clutter in this way will make what is useful easier to find.</p>
+<p>Briefly document what happened.
+If you are the main developer working on a grant and you have moved on to something else,
+say that in the README.
+If the funding changed, then say that the work is unfunded.
+This information is often the most useful for users but the hardest to find.
+Saying it up front will help others understand how your work is positioned.</p>
+<p>Following on from Tip~5,
+you can search the \href{https://archive.softwareheritage.org/browse/search/}{Software Heritage Archive}
+to check if your repository has been saved.
+If not,
+submitting it is a \href{https://archive.softwareheritage.org/save/}{simple process}.</p>
+</main>
+<footer>
+<a href="../">At the End of the Day</a>
+      copyright © 2025
+      <a href="../intro/#acknowledgments">the authors</a>
+</footer>
+</body>
+</html>

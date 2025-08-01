@@ -4,7 +4,7 @@ This workshop is a short introduction to handing projects over to new leadership
 (or winding them down).
 All of the material is available under [an open license](./LICENSE.md),
 and contributions through our [repository][repo] are welcome.
-All contributors are required to respect our [Code of Conduct](./CODE_OF_CONDUCT.md).
+All participants are required to respect our Code of Conduct.
 
 ## Learner Persona
 

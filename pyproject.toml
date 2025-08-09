@@ -8,7 +8,7 @@ dependencies = [
 ]
 
 [tool.mccole]
-skips = ["extras", "templates", "uv.lock"]
+skips = ["extras/**", "uv.lock"]
 
 [tool.mccole.renames]
 "README.md" = ""

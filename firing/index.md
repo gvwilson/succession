@@ -1,4 +1,4 @@
-# Shrinking the Team
+# Firing People
 
 <p class="subtitle">what to do when it's someone else</p>
 

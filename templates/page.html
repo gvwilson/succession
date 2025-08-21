@@ -14,24 +14,18 @@
       <span class="dropdown">
 	<a href="#">Lessons</a>
 	<span id="nav-lessons" class="dropdown-content">
-          <a href="@/intro/">Introduction</a>
-          <a href="@/handover/">Handing Over</a>
-          <a href="@/shutdown/">Shutting Down</a>
-          <a href="@/rushed/">Short Notice</a>
-          <a href="@/finale/">Conclusion</a>
+{% for key in lessons %}
+          <a href="{{key}}">{{lessons[key]}}</a>
+{% endfor %}
 	</span>
       </span>
       &middot;
       <span class="dropdown">
         <a href="#">Extras</a>
         <span id="nav-extras" class="dropdown-content">
-	  <a href="@/license/">License</a>
-	  <a href="@/conduct/">Code of Conduct</a>
-	  <a href="@/contrib/">Contributing</a>
-	  <a href="@/bibliography/">Bibliography</a>
-	  <a href="@/glossary/">Glossary</a>
-          <a href="@/firing/">Firing People</a>
-          <a href="@/fired/">Being Fired</a>
+{% for key in appendices %}
+          <a href="{{key}}">{{appendices[key]}}</a>
+{% endfor %}
         </span>
       </span>
     </nav>
@@ -39,9 +33,9 @@
 {{content}}
     </main>
     <footer>
-      <a href="@/">At the End of the Day</a>
+      <a href="@/">{{title}}</a>
       copyright &copy; 2025
-      <a href="@/intro/#acknowledgments">the authors</a>
+      <a href="@/#acknowledgments">the authors</a>
     </footer>
   </body>
 </html>

@@ -26,9 +26,9 @@ All participants are required to respect our [Code of Conduct](./CODE_OF_CONDUCT
 This workshop teaches Vaida how to shut down a project gracefully
 or hand one over to new leadership.
 
-## Syllabus
+## Lessons
 
-<div id="syllabus" markdown="1">
+<div id="lessons" markdown="1">
 
 1.  [Introduction](./intro/)
 2.  [Handing Over](./handover/)

@@ -57,16 +57,13 @@
     2005,
     978-0691122946.
 
-@article{Katz2018,
-  author = {Katz, Daniel S. and Niemeyer, Kyle E. and Smith, Arfon M.},
-  title = {Publish your software: Introducing the Journal of Open Source Software (JOSS)},
-  journal = {Computing in Science \& Engineering},
-  year = {2018},
-  volume = {20},
-  number = {3},
-  pages = {84-88},
-  doi = {10.1109/MCSE.2018.03221930}
-}
+<span id="Katz2018">Katz et al 2018</span>
+:   Daniel S. Katz, Kyle E. Niemeyer, and Arfon M. Smith:
+    "Publish your software: Introducing the Journal of Open Source Software (JOSS)".
+    *Computing in Science & Engineering*,
+    20(3),
+    2018,
+    10.1109/MCSE.2018.03221930.
 
 <span id="Kuchner2011">Kuchner 2011</span>
 :   Marc J. Kuchner:

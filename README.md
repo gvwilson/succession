@@ -31,10 +31,10 @@ or hand one over to new leadership.
 <div id="lessons" markdown="1">
 
 1.  [Introduction](./intro/)
-2.  [Handing Over](./handover/)
-3.  [Shutting Down](./shutdown/)
-4.  [Short Notice](./rushed/)
-5.  [Conclusion](./finale/)
+1.  [Graceful Exits](./planned/)
+1.  [Helping Others](./helping/)
+1.  [On Short Notice](./sudden/)
+1.  [Conclusion](./finale/)
 
 </div>
 
